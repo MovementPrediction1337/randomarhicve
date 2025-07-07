@@ -4202,7 +4202,6 @@ code {
 	--streaming-color: #593695;
 	--offline-color: #808080;
 	--background-shading-percent: 100%;
-	--background-image: url(https://raw.githubusercontent.com/MovementPrediction1337/randomarhicve/refs/heads/main/SPOILER_C89325AD-D4E4-4B2A-81FF-EF0FFA479F30.jpg);
 	--background-position: center;
 	--background-size: cover;
 	--background-attachment: fixed;
@@ -4217,8 +4216,8 @@ code {
 	--user-modal-size: var(--background-size);
 	--user-modal-attachment: var(--background-attachment);
 	--user-modal-filter: var(--background-filter);
-	--home-icon: url(https://clearvision.github.io/icons/discord.svg);
-	--home-size: cover;
+	--home-icon: url(https://raw.githubusercontent.com/MovementPrediction1337/randomarhicve/refs/heads/main/SPOILER_C89325AD-D4E4-4B2A-81FF-EF0FFA479F30.jpg);
+	--home-size: cover+2;
 	--main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
 	--channel-normal: var(--interactive-normal);
