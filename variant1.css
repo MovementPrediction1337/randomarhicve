@@ -3736,7 +3736,10 @@ code {
 .childWrapper__6e9f8>svg {
 	width: 100%;
 	height: 100%;
-	background: var(--home-icon) center/var(--home-size) no-repeat
+	background-image: var(--home-icon);
+	background-size: var(--home-size);
+	background-repeat: no-repeat;
+	background-position: calc(50% + 10px) -0.5rem;
 }
 
 .childWrapper__6e9f8 path {
@@ -4216,8 +4219,8 @@ code {
 	--user-modal-size: var(--background-size);
 	--user-modal-attachment: var(--background-attachment);
 	--user-modal-filter: var(--background-filter);
-	--home-icon: url(https://clearvision.github.io/icons/discord.svg);
-	--home-size: cover;
+	--home-icon: url(https://raw.githubusercontent.com/MovementPrediction1337/randomarhicve/refs/heads/main/IMG_3364_1.jpg);
+	--home-size: 4.2rem;
 	--main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
 	--channel-normal: var(--interactive-normal);

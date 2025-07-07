@@ -4217,7 +4217,7 @@ code {
 	--user-modal-attachment: var(--background-attachment);
 	--user-modal-filter: var(--background-filter);
 	--home-icon: url(https://raw.githubusercontent.com/MovementPrediction1337/randomarhicve/refs/heads/main/SPOILER_C89325AD-D4E4-4B2A-81FF-EF0FFA479F30.jpg);
-	--home-size: cover+2;
+	--home-size: cover;
 	--main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
 	--channel-normal: var(--interactive-normal);
